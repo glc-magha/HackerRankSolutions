@@ -1,5 +1,6 @@
 """Task
-The provided code stub reads an integer, , from STDIN. For all non-negative integers ,
+The provided code stub reads an integer, ,
+ from STDIN. For all non-negative integers ,
 print .
 Exampl
 The list of non-negative integers that are less than  is .
@@ -8,7 +9,8 @@ Görev
 Sağlanan kod parçası, STDIN'den bir tam sayı, , okur.
 Tüm negatif olmayan tam sayılar için, yazdırın.
 Örnek
-'den küçük olan negatif olmayan tam sayıların listesi. Her sayının karesini ayrı bir satıra yazdırın."""
+'den küçük olan negatif olmayan tam sayıların listesi.
+Her sayının karesini ayrı bir satıra yazdırın."""
 
 # Read an integer from input
 n = int(input().strip())
