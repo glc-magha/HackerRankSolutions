@@ -14,7 +14,7 @@ Sağlanan kod parçası STDIN'den iki tam sayı ve okur.
 İkinci satır kayan nokta bölümünün sonucunu içermelidir, / .
 
 Yuvarlama veya biçimlendirme gerekli değildir."""
-# Read two integers from input
+""""# Read two integers from input
 a = int(input().strip())
 b = int(input().strip())
 
@@ -24,3 +24,4 @@ print(a // b)
 # Print float division result
 print(a / b)
 #done
+"""

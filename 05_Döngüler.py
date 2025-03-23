@@ -12,10 +12,10 @@ Tüm negatif olmayan tam sayılar için, yazdırın.
 'den küçük olan negatif olmayan tam sayıların listesi.
 Her sayının karesini ayrı bir satıra yazdırın."""
 
-# Read an integer from input
+"""# Read an integer from input
 n = int(input().strip())
 
 # Loop through all non-negative integers less than n
 for i in range(n):
     print(i ** 2)  # Print the square of each number
-#done
+#done"""

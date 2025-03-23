@@ -20,7 +20,7 @@ Giriş Biçimi
 
 Pozitif bir tam sayı içeren tek bir satır,
 .Sayı garipse Garip yazdır. Aksi takdirde Garip Değil yazdır."""
-n = int(input().strip())
+"""n = int(input().strip())
 
 if n % 2 == 1:  # Check if n is odd
     print("Weird")
@@ -29,6 +29,6 @@ elif 2 <= n <= 5:  # Check if n is even and in range 2 to 5
 elif 6 <= n <= 20:  # Check if n is even and in range 6 to 20
     print("Weird")
 else:  # Check if n is even and greater than 20
-    print("Not Weird")
+    print("Not Weird")"""
 
 

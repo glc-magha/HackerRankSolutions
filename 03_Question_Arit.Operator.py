@@ -15,7 +15,7 @@ Sağlanan kod parçası STDIN'den iki tam sayı okur ve .
 Üçüncü satır iki sayının çarpımını içerir."""
 
 
-# Read two integers from input
+"""# Read two integers from input
 a = int(input().strip())
 b = int(input().strip())
 
@@ -26,4 +26,4 @@ print(a + b)
 print(a - b)
 
 # Print the product
-print(a * b)
+print(a * b)"""
