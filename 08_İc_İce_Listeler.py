@@ -42,10 +42,12 @@ Daha sonraki satırlar her bir öğrenciyi satırlar halinde açıklar.
 - İkinci satır notunu içerir.
 Her zaman ikinci en düşük nota sahip bir veya daha fazla öğrenci olacaktır.
 Çıktı Biçimi
-İkinci en düşük nota sahip herhangi bir öğrencinin adını/adlarını yazdırın. Birden fazla öğrenci varsa, adlarını alfabetik olarak sıralayın ve her birini yeni bir satıra yazdırın.
+İkinci en düşük nota sahip herhangi bir öğrencinin adını/adlarını yazdırın.
+ Birden fazla öğrenci varsa, adlarını alfabetik olarak sıralayın ve her birini yeni bir satıra yazdırın.
 Bu sınıfta isimleri ve notları bir araya getirilerek aşağıdaki liste oluşturulmuş öğrenciler var:
 python students = [['Harry', 37.21], ['Berry', 37.21], ['Tina', 37.2], ['Akriti', 41], ['Harsh', 39]]
-En düşük not Tina'ya ait. İkinci en düşük not ise hem Harry'ye hem de Berry'ye ait, bu yüzden isimlerini alfabetik olarak sıralıyoruz ve her ismi yeni bir satıra yazıyoruz.
+En düşük not Tina'ya ait. İkinci en düşük not ise hem Harry'ye hem de Berry'ye ait,
+bu yüzden isimlerini alfabetik olarak sıralıyoruz ve her ismi yeni bir satıra yazıyoruz.
 
 # Step 1: Read input data
 n = int(input())  # Number of students
