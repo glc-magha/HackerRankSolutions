@@ -6,7 +6,11 @@
     ' All permutations of lists in the form .)
 Remove all arrays that sum to  to leave only the valid permutations.
 
-Liste kavrayışlarını öğrenelim! Üç tam sayı ve bir küboidin boyutlarını ve bir tam sayıyı temsil eden bir sayı verildi. Toplamının 'e eşit olmadığı 3 boyutlu bir ızgarada verilen tüm olası koordinatların bir listesini yazdırın. Burada, . Öğrenme egzersizi olarak, lütfen birden fazla döngü yerine liste kavrayışlarını kullanın. Her değişken ve veya değerlerine sahip olacaktır. Listelerin biçimindeki tüm permütasyonları.
+Liste kavrayışlarını öğrenelim! Üç tam sayı ve bir küboidin boyutlarını ve
+bir tam sayıyı temsil eden bir sayı verildi. Toplamının 'e eşit olmadığı 3 boyutlu
+ bir ızgarada verilen tüm olası koordinatların bir listesini yazdırın. Burada, .
+  Öğrenme egzersizi olarak, lütfen birden fazla döngü yerine liste kavrayışlarını kullanın.
+   Her değişken ve veya değerlerine sahip olacaktır. Listelerin biçimindeki tüm permütasyonları.
 Yalnızca geçerli permütasyonları bırakmak için toplamı olan tüm dizileri kaldırın
 
 # Read input values
