@@ -35,4 +35,5 @@ if __name__ == '__main__':
     query_scores = student_marks[query_name]
     average = sum(query_scores) / len(query_scores)
     print("{:.2f}".format(average))
+
 """
