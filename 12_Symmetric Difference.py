@@ -1,4 +1,4 @@
-"""Objective
+"""""""""Objective
 Today, we're learning about a new data type: sets.
 Concept
 If the inputs are given on one line separated by a character (the delimiter), use split() to get the separate values in the form of a list. The delimiter is space (ascii 32) by default. To specify that comma is the delimiter, use string.split(','). For this challenge, and in general on HackerRank, space will be the delimiter.
@@ -203,7 +203,7 @@ for num in result:
 
 
 #-----------------------------------------------"""
-# Read input
+""""# Read input
 m = int(input())  # size of set a (can be ignored)
 a = set(map(int, input().split()))
 
@@ -217,3 +217,4 @@ result = sorted(a.symmetric_difference(b))
 for num in result:
     print(num)
 
+"""
